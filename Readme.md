@@ -24,7 +24,7 @@
 
 ## DOM Assignment
 
-[](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/DOM%20Assignment%202.0%201%2C2%2C3)
+[Assignment-01](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/DOM%20Assignment%202.0%201%2C2%2C3/Readme.md)
 
 ## Java Script Projects
 
