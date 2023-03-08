@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+</head>
+<body>
+    <h1>JavaScript</h1>
+    <h1>React</h1>
+    <h1>NodeJs</h1>
+    <h1>Conter:</h1>
+    <h1>Counter: <span id="counter">0</span></h1>
+    <button id="increment">Increment</button>
+    <button id="decrement">Decrement</button>
+</body>
+<script>
+    // let heading = document.querySelector('h1')
+    // // heading.innerText="JavaScript Essential"
+    // console.log(heading)
+    // // console.log(heading)
+    let counter = 0;
+    let counterInc = document.querySelector("#increment")
+    let counterDec = document.querySelector("#decrement")
+    console.log(counterInc)
+    function f1()
+    {
+        console.log("Iclicked")
+       let CounterBtn = document.getElementById('counter')
+       counter++;
+       CounterBtn.innerText = counter;
+    }
+     function f2() {
+            console.log("Dclicked")
+            let CounterBtn = document.getElementById('counter')
+            counter--;
+            CounterBtn.innerText = counter;
+        }
+    counterInc.addEventListener('click',f1)
+    counterDec.addEventListener('click', f2)
+</script>
+</html>

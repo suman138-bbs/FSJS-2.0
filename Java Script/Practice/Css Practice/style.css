@@ -1,0 +1,23 @@
+
+section div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 1px solid black ;
+    margin:2px;
+    
+    flex-basis: 200px;
+    
+}
+.first{
+    flex-basis: 12px;
+}
+.second{
+    flex-grow: 5;
+}
+
+section{
+    display: flex;
+
+    
+}

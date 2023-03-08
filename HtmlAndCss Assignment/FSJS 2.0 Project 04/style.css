@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Search */
+    background: #F9F5ED;
+    font-family: Poppins;
+}
+nav{
+    padding: 20px 10%;
+    height: 15vh;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+
+}
+
+nav ul li {
+    list-style: none;
+    margin-right: 5%;
+    /* gap: 50px; */
+    font-weight: 500;
+    cursor:pointer;
+    color: rgba(0, 0, 0, 0.689) ;
+}
+
+
+/* CSS for HERO Section */
+
+main{
+    display: flex;
+        align-items: center;
+        margin-left: 138px;
+        margin-top: 74px;
+    
+}
+
+.leftmain{
+    width: 40%;
+    
+}
+
+.leftmain h1{
+    font-size: 50px;
+    line-height: 1;
+}
+
+.leftmain p{
+    margin: 5% 0;
+    width: 498px;
+        font-size: smaller;
+        color: rgba(0, 0, 0, 0.689);
+}
+
+.leftmain button{
+    padding: 15px 20px;
+    border: none;
+    background-color: #3b855b;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+    width: 138px;
+}
+
+.rightmain{
+    margin-top: -30px;
+        margin-left: 133px;
+}
+
+.rightmain div im
+
+/* fonts section */
+
+.upperimg{
+    height: 227px;
+}
+
+.lowerimg{
+    height: 221px;
+    width: 100px;
+}
+
+
+/* image section */
+
+.upperimg img:first-child{
+    height: 253px;
+
+}
+
+.upperimg img:last-child{
+    height: 283px;
+}
+
+.lowerimg img{
+    height: 217px;
+}

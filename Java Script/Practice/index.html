@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM </title>
+</head>
+<body>
+    <ul>
+
+    </ul>
+    <script>
+        const list = `
+        <li>Suman</li>
+        <li>MANAS</li>
+        <li>Binod<li>
+        `;
+        let ul1=document.querySelector("ul")
+        ul1.innerHTML=list;
+        // Create Element
+        let ele = document.createElement("h1")
+        ele.style.fontSize="25px"
+        ele.textContent="This create the h1 tag"
+        console.log(ele);
+        document.body.appendChild(ele)
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+/* body{
+    background-color: rgb(130, 157, 157);
+background-image:url(./Shiva-Wallpaper-shivratri.jpg);
+}
+ */
+/* universal selectors */
+
+/* *{
+    color: rgb(14, 39, 232);
+    background-color: #808080;
+} */
+
+/* Individul selectors */
+/* h2{
+    color: black;
+} */
+
+
+
+ /* .para{
+    /* border: 2px solid rgb(235, 124, 13); */
+    /* similarly */
+    /* 
+    border-width: 2px;
+    border-style:solid;
+    border-color:rgb(235, 124, 13); 
+border-style: solid dotted doubled ridge;
+}  */
+
+
+/* Margin is from outside padding is always from inside */
+ .para{
+    /* border: 2px solid rgb(235, 124, 13); */
+ /* similarly */
+  
+    border-width: 2px;
+    border-style:solid;
+    border-color:rgb(235, 124, 13); 
+    margin: 200px 100px 150px 20px;
+    padding: 100px;
+    height: 10px;
+    width: 500px;
+    background-color: rgb(193, 193, 207);
+    color: rgb(100, 18, 215);
+    text-align:right ;
+    text-decoration: underline;
+} 

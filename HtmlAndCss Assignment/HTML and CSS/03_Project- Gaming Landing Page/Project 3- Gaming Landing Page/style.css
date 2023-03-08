@@ -1,0 +1,244 @@
+*{
+    font-family: Poppins;
+    
+}
+body{
+    overflow-x: hidden;
+}
+
+/* Navigation Bar */
+.f-back{
+    height: 95vh;
+    margin: -16px;
+    font-family: Poppins;
+    background-image: url(./Assets/Photos/futuristic-bg.png) ;
+    padding-bottom: 80px;
+    /* filter: brightness(50%); */
+    background-size: 100vw 106vh;
+        background-repeat: no-repeat;
+        overflow: hidden;
+    
+}
+.inside{
+    display: flex;
+}
+.nav{
+    padding-top: 18px;
+    padding-left: 74px;
+    color: rgb(208, 204, 204);
+    font-weight: 400;
+    font-size:14px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.l-img{
+    flex-basis: 277px;
+}
+
+.btn-first>p {
+    background-color: none; 
+    position: absolute;
+    padding: 1px 45px;
+    right: 202px;
+    border: none;
+}
+
+.btn-second>button {
+    position: absolute;
+    padding: 15px 45px;
+    right: 83px;
+    border: none;
+    color: white;
+    background-color: #dd6b55;
+}
+
+/* Hero Section */
+.hero{
+    margin-top: 87px;
+    padding-left: 74px;
+}
+
+.hero-des{
+    color: white;
+    line-height: 0.4;
+    font-size: 45px ;
+    font-weight: bold;
+}
+.hero-con{
+     color: rgb(208, 204, 204);
+     width: 514px;
+}
+
+.get-started{
+    margin-top: 80px;
+    display: flex;
+    gap: 10px;
+}
+
+.get-started1>button{
+    color: white;
+    font-size: 15px;
+    padding: 20px 45px;
+    background-color: #dd6b55;
+    border: none;
+}
+.get-started2 {
+    color: white;
+    padding: 17px 38px;
+    ;
+    
+    border:1px solid white ;
+}
+.play-Button{
+    filter: blur(0.5px);
+    position: absolute;
+    right: 280px;
+    top: 290px;
+}
+
+.dash > img{
+        position: absolute;
+            right: 441px;
+            top: 510px;
+    
+
+}
+.xxiv{
+    color: white;
+    
+    font-weight: normal;
+    font-size: 24PX;
+    position: absolute;
+    top: 480px;
+    right: 200px;
+    line-height: 0.5;
+}
+
+.rightArrow > img{
+        position: absolute;
+            right: 73px;
+            top: 575px;
+}
+
+.collection{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.collection p{
+        font-size: 40px;
+        font-weight:bolder;
+        line-height: 0.5;
+}
+
+.g-collection{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center ;
+}
+
+.soldier{
+    height: 340px;
+        width: 316px;
+        background-image: url(./Assets/Photos/image\ 2.png);
+        background-size: 22vw 53vh;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+}
+.wariors {
+    height: 340px;
+    width: 316px;
+    background-image: url(./Assets/Photos/image\ 4.png);
+    background-size: 22vw 53vh;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: flex;
+        flex-direction: column;
+        justify-content: end;
+}
+.pubjiken {
+    height: 340px;
+    width: 316px;
+    background-image: url(./Assets/Photos/image\ 3.png);
+    background-size: 22vw 53vh;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: flex;
+        flex-direction: column;
+        justify-content: end;
+}
+.Garela {
+    height: 340px;
+    width: 316px;
+    background-image: url(./Assets/Photos/Rectangle\ 56.png);
+    background-size: 22vw 53vh;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: flex;
+        flex-direction: column;
+        justify-content: end;
+}
+
+.soldier1{
+    color: white;
+    line-height: 0.9;
+    padding: 10px;
+    padding-left: 20px;
+    backdrop-filter: blur(10px);
+    width: 270px;
+    display: flex;
+    gap: 25px;
+}
+.wariors1 {
+    color: white;
+    line-height: 0.9;
+    padding: 10px;
+        padding-left: 20px;
+    backdrop-filter: blur(10px);
+    width: 270px;
+    display: flex;
+    gap: 25px;
+}
+.pubjiken1 {
+    color: white;
+    line-height: 0.9;
+    padding: 10px;
+        padding-left: 20px;
+    backdrop-filter: blur(10px);
+    width: 270px;
+    display: flex;
+    gap: 25px;
+}
+.Garela1 {
+    color: white;
+    line-height: 0.9;
+    padding: 10px;
+        padding-left: 20px;
+    backdrop-filter: blur(10px);
+    width: 270px;
+    display: flex;
+    gap: 25px;
+}
+
+.download{
+    color: white;
+    font-weight: 200;
+    background-color: #dd6b55;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.action{
+    color: rgba(230, 228, 228, 0.676);
+    font-size: 14px;
+    font-weight: 400;
+}
