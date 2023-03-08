@@ -22,6 +22,10 @@
 
 [project-6](<./HtmlAndCss%20Assignment/FSJS_2.0_Project%2006/Screenshot%20(185).png>)
 
+## DOM Assignment
+
+[](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/DOM%20Assignment%202.0%201%2C2%2C3)
+
 ## Java Script Projects
 
 **Change Background Color onclick**

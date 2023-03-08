@@ -1,3 +1,8 @@
+# Assignment 06
+
+**Task**
+
+```
 let h1 = document.querySelector('header img');
 h1.src = './assets/ineuron-logo.png'
 
@@ -13,3 +18,6 @@ let di = document.createElement('div')
 di.classList.add('footer_social_ico');
 di.innerHTML = '<i class="fa-brands fa-linkedin"></i>'
 li1.appendChild(di)
+```
+
+![](<./Screenshot%20(213).png>)
