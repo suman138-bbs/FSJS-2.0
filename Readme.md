@@ -26,6 +26,18 @@
 
 [Assignment-01/02/03](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/DOM%20Assignment%202.0%201%2C2%2C3/Readme.md)
 
+[Assignment-04](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/04_DOM%20Project/04_DOM%20Project/Readme.md)
+
+[Assignment-05](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/05_DOM%20Project/05_DOM%20Project/Readme.md)
+
+[Assignment-06](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/06_DOM%20Project/06_DOM%20Project/Readme.md)
+
+[Assignment-07](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/DOM%20P7/DOM%20P7/Readme.md)
+
+[Assignment-08](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/DOM%20P8/DOM%20P8/Readme.md)
+
+[Assignment-09](./DOM%20Assignment/DOM%20Assignments%202.0%20Batch%20copy/DOM%20P9/DOM%20P9/Readme.md)
+
 ## Java Script Projects
 
 **Change Background Color onclick**
