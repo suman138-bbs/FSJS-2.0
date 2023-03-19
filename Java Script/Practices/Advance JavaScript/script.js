@@ -16,9 +16,9 @@ const spread = {
 
 const { ...s } = spread
 const { name,age } =s
-console.log(s)
+
 console.log(spread)
-console.log(name,age)
+// console.log(name,age)
 
 
 function f1({ name, age })
@@ -44,3 +44,7 @@ f1(s)
 // f1(...spread)
 
 
+
+let arr = [1, 2, 3, 4, 5];
+let ob = { ...arr }
+console.log(ob)
