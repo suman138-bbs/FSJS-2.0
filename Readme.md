@@ -47,3 +47,13 @@
 **TODO lists**
 
 [link](https://todobhandari.netlify.app/)
+
+## React Projects
+
+**Movie App**
+
+[link](https://searchyourmovie2.netlify.app/)
+
+**Meal DB**
+
+[link](https://mealdb1.netlify.app/)
