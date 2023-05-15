@@ -18,7 +18,7 @@
 const myData = async () => {
     const data = await fetch('https://jsonplaceholder.typicode.com/users')
     const mainData = await data.json()
-    console.log(mainData)
+    console.log("asysn Data")
 }
 
 myData()
